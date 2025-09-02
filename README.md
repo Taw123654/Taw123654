@@ -1,16 +1,17 @@
-## Hi there 👋
+# Ali Tawhid Mahboob
+## Hobby
+-Voetbal
+-Lopen
+-Progammeren
+## Wat studeer ik en in welke school
+###### Ik studeer applicatie en databeheer in Spectrum Gent.
+## Images
+![Dit is een voetbalveld](https://www.pexels.com/nl-nl/foto/groen-en-blauw-voetbalveld-3845970/)
+## Cristiano Ronaldo
+>"Talent without working hard is nothing" :goat::goat::goat::goat:
+| Hobby    |  duur   |
+| -------- | ------- |
+| voetbal  | +10 jaar|
+| Lopen    | +10 jaar|
+| Progammeren|1 jaar |
 
-<!--
-**Taw123654/Taw123654** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
