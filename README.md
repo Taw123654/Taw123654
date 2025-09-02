@@ -4,7 +4,7 @@ Voetbal
 
 Lopen
 
-Progammeren
+Tennis
 ## Wat studeer ik en in welke school
 ###### Ik studeer applicatie en databeheer in Spectrum Gent.
 ## Images
@@ -16,7 +16,7 @@ Progammeren
 ##Tabel
 | Hobby    |  duur   |
 | -------- | ------- |
-| voetbal  | +10 jaar|
+| voetbal  |   6/7   
 | Lopen    | +10 jaar|
 | Progammeren|1 jaar |
 
