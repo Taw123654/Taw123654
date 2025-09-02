@@ -17,6 +17,6 @@ Tennis
 | Hobby    |  duur   |
 | -------- | ------- |
 | voetbal  |   6/7   
-| Lopen    | +10 jaar|
-| Progammeren|1 jaar |
+| Lopen    |   7/7   |
+| Tennis   | 1/7     |
 
