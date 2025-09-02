@@ -9,7 +9,7 @@
 ![Dit is een voetbalveld](https://www.pexels.com/nl-nl/foto/groen-en-blauw-voetbalveld-3845970/)
 ## Cristiano Ronaldo
 >"Talent without working hard is nothing" :goat::goat::goat::goat:
-#Tabel
+##Tabel
 | Hobby    |  duur   |
 | -------- | ------- |
 | voetbal  | +10 jaar|
