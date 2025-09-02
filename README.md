@@ -1,8 +1,8 @@
 # Ali Tawhid Mahboob
 ## Hobby
--Voetbal
--Lopen
--Progammeren
+######Voetbal
+######Lopen
+######Progammeren
 ## Wat studeer ik en in welke school
 ###### Ik studeer applicatie en databeheer in Spectrum Gent.
 ## Images
